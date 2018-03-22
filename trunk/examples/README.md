@@ -3,7 +3,7 @@
 
  [check demo](http://lexper-site.local/demo)
 
-## Lexper examples
+## Lexper examples:
 
  - **Java**
 
