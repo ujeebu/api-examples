@@ -1,13 +1,13 @@
 ## Lexper API
  Lexper is a set of APIs that provide developers with extraction, text analysis and language detection capabilities.
 
- [check demo](http://lexper-site.local/demo)
+ [check demo](https://lexper.com/demo)
 
 ## Lexper examples:
 
  - **Java**
 
-    To run Java example we make use of [Apache HttpClient](https://hc.apache.org/downloads.cgi) library to make request and [Gson](https://github.com/google/gson) library to handle json.
+    To run the Java example we use the [Apache HttpClient](https://hc.apache.org/downloads.cgi) library to make the API request and the [Gson](https://github.com/google/gson) library to process the JSON received.
 
     ```bash
          cd java
