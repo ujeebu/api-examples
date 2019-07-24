@@ -1,9 +1,9 @@
-## Lexper API
- Lexper is a set of APIs that provide developers with extraction, text analysis and language detection capabilities.
+## Ujeebu API
+ Ujeebu is a set of APIs that provide developers with extraction, text analysis and language detection capabilities.
 
- [check demo](https://lexper.com/demo)
+ [check demo](https://ujeebu.com/demo)
 
-## Lexper examples:
+## Ujeebu examples:
 
  - **Java**
 
